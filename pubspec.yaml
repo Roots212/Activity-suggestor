@@ -1,0 +1,45 @@
+name: activity_suggestor
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.0.1
+  sizer: ^2.0.15
+  equatable: ^2.0.3
+  dartz: ^0.10.1
+  internet_connection_checker: ^0.0.1+4
+  http: ^0.13.4
+  get_it: ^7.2.0
+  animated_text_kit: ^4.2.2
+  shake: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  fonts:
+   - family: Modeseven
+     fonts:
+      - asset: fonts/Modeseven-L3n5.ttf
+
+
+  uses-material-design: true
+
+  
