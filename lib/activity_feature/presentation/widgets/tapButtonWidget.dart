@@ -36,6 +36,7 @@ class _TapButtonWidgetState extends State<TapButtonWidget>
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
+        
         BlocProvider.of<ActivityBloc>(context).add(GetActivity());
       },
       child: Center(
