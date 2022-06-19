@@ -1,16 +1,18 @@
-# activity_suggestor
+# activity-suggestor-clean-architecture
+A simple activity suggestor app made with the help of bored api.
 
-A new Flutter project.
+# BORED API
+The Bored API helps you find things to do when you're bored! There are fields like the number of participants, activity type, and more that help you narrow down your results.
 
-## Getting Started
+Read More At: http://www.boredapi.com/
 
-This project is a starting point for a Flutter application.
+# This app is made with bloc and clean architecture, the goal is to create a simple and easy to understand implementation of Clean Architecture.
 
-A few resources to get you started if this is your first Flutter project:
+# Screens
+![Start Screen](https://i.imgur.com/ENGZhQi.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Load Screen](https://i.imgur.com/8kLxXlU.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Activity Screen](https://i.imgur.com/8qqaoE5.png)
+
+
